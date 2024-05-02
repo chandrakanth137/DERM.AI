@@ -11,5 +11,5 @@ Use your own API Key to run the chatgpt model.
 
 ### Screenshots
 ![Image 1](<assets/Screenshot from 2023-10-04 10-35-57.png>)
-![Image 2](<assets/Screenshot from 2023-10-04 10-35-57.png>)
+![Image 2](<assets/Screenshot from 2023-10-04 10-36-01.png>)
 ![Image 3](<assets/Screenshot from 2023-10-04 10-43-47.png>)
